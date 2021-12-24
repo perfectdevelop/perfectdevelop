@@ -1,4 +1,5 @@
-### Welcome to my profile 👋 | Talented Web Developer(telegram: @pheonix101 / skype: live:.cid.c0db7b3caf3cadaa)
+#####👋 Talented Web Developer(telegram: @pheonix101 / skype: live:.cid.c0db7b3caf3cadaa)
+#### Now is heyday of my skill in React!!!
 
 ✨ Major skills:
 - React / Vue / Angular
