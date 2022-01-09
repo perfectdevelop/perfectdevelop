@@ -46,7 +46,7 @@
     </td>
     <td>
       <img
-        src="./assets/reactAndMaterailUI"
+        src="./assets/reactAndMaterailUI.png"
         width="200"
       />
     </td>
