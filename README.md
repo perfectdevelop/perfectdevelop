@@ -46,7 +46,7 @@
     </td>
     <td>
       <img
-        src="./assets/MUI.png"
+        src="https://seekicon.com/free-icon-download/material-ui_1.svg"
         width="200"
       />
     </td>
