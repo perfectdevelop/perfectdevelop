@@ -1,6 +1,6 @@
-Hey 👋🏻,
+<h2>Hey 👋🏻,</h2>
 
-I am proven Software Engineer and web developer. I am interested in, write about, and develop (open source) software solutions using JavaScript, TypeScript, ReactJS, and NodeJS.
+<p style="font-size: 20px">I am proven Software Engineer and web developer. I am interested in, write about, and develop (open source) software solutions using JavaScript, TypeScript, ReactJS, and NodeJS.</p>
 
 ### 𝐒𝐤𝐢𝐥𝐥s
 <table>
