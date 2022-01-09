@@ -46,7 +46,7 @@
     </td>
     <td>
       <img
-        src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true"
+        src="./assets/reactAndMaterailUI"
         width="200"
       />
     </td>
@@ -78,7 +78,7 @@
   <thead align="center">
     <tr>
       <td>Filda Defi</td>
-      <td>Dragon Aurum</td>
+      <td>Online Tutorial</td>
       <td>CEX</td>
       <td>Token market</td>
     </tr>
@@ -95,7 +95,7 @@
         </a>
       </td>
       <td>
-        <a href="https://qiswap.com">
+        <a href="https://rhizo.us/">
           <img
             src="./assets/react.png"
             width="200"
@@ -119,36 +119,6 @@
             width="200"
           />
           <p align="center">Token Marketing place</p>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<table>
-  <thead align="center">
-    <tr>
-      <td>Avalanche Defi</td>
-      <td>NFT marketplace</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://staking.snowball.network/">
-          <img
-            src="https://github.com/kroim/profile/blob/master/projects/pearl.png?raw=true"
-            width="200"
-          />
-          <p align="center">Avalanche Defi</p>
-        </a>
-      </td>
-      <td>
-        <a href="https://leda.jup.io/">
-          <img
-            src="https://github.com/snowwhitedev/profile_stuff/blob/master/05_snowball.png?raw=true"
-            width="200"
-          />
-          <p align="center">NFT marketplace</p>
         </a>
       </td>
     </tr>
