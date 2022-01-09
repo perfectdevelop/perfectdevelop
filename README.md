@@ -46,7 +46,7 @@
     </td>
     <td>
       <img
-        src="./assets/reactMUI.png"
+        src="./assets/MUI.png"
         width="200"
       />
     </td>
