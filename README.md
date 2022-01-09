@@ -97,10 +97,10 @@
       <td>
         <a href="https://qiswap.com">
           <img
-            src="https://github.com/snowwhitedev/profile_stuff/blob/master/dcau.png?raw=true"
+            src="./assets/react.png"
             width="200"
           />
-          <p align="center">DCAU-DeFi&NFT marketplace</p>
+          <p align="center">Material UI + React + Typescript</p>
         </a>
       </td>
       <td>
