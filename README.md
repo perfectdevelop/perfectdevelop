@@ -113,9 +113,9 @@
         </a>
       </td>
       <td>
-        <a href="https://hashtag.space">
+        <a href="https://www.xe.com/">
           <img
-            src="https://github.com/snowwhitedev/profile_stuff/blob/master/03_hashtag.png?raw=true"
+            src="./assets/xe.png"
             width="200"
           />
           <p align="center">Token Marketing place</p>
