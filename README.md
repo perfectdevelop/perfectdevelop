@@ -59,12 +59,12 @@
 
 
 <h1 align="center">
-    <img
+    /*<img
       src="./assets/certification.png"
       width="80%"
       height="auto"
       alt="Literally Logo"
-    />
+    />*/
     <br />
     <img
       src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"
