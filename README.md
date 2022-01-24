@@ -38,13 +38,13 @@
     </td>
     <td>
       <img
-        src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png"
+        src="https://seekicon.com/free-icon-download/ethereum_3.svg"
         width="200"
       />
     </td>
     <td>
       <img
-        src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png"
+        src="https://seekicon.com/free-icon-download/bitcoin_4.svg"
         width="200"
       />
     </td>
