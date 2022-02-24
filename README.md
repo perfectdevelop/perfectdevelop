@@ -1,6 +1,6 @@
 <h2>Hey </h2>👋🏻,
 
-<p style="font-size: 20px">Skilled and Proven Software engineer.<br /> 6+ years of rich experience in front-end and backend development. <br /> As a professional developer, providing high quality result in time is my duty. </p>
+<p style="font-size: 20px">Skilled and Proven Software engineer.<br /> 4+ years of rich experience in front-end and backend development. <br /> As a professional developer, providing high quality result in time is my duty. </p>
 
 ### 𝐒𝐤𝐢𝐥𝐥s
 <table>
