@@ -1,7 +1,8 @@
 <h2>Thanks for visiting my github !!!</h2>
-<p style={color: 'green'; font-size: '16px'}>Please contact me today and see how can we make exact result what you want!<p>
+<p style="font-size: 22px; color: green">Please contact me today and see how can we make exact result what you want!<p>
+  <p>$kype: live:.cid.c0db7b3caf3cadaa</p>
 
-<p style="font-size: 20px">
+<p style="font-size: 16px">
   Skilled and Proven Software engineer. 5+ years of experience.<br />
   <br />
   Core skills:  <br />
@@ -21,60 +22,4 @@
   ☆ Node.js / Express / Python / Django<br />
   ☆ Restful API / API integration<br />
   ☆ MongoDB / PostgreSQL / MySQL / SQLite<br />
-   
-
 </p>
-
-<!-- ### 𝐒𝐤𝐢𝐥𝐥s
-<table>
-  <tr>
-    <!-- <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
-         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
-         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
-         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
-         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
-         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
-         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td> -->
-    <td>
-      <img
-        src="https://seekicon.com/free-icon-download/typescript_2.svg"
-        width="200"
-      />
-    </td>
-    <td>
-      <img
-        src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png"
-        width="200"
-      />
-    </td>
-    <td>
-      <img
-        src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png"
-        width="200"
-      />
-    </td>
-    <td>
-      <img
-        src="https://seekicon.com/free-icon-download/redux_2.svg"
-        width="200"
-      />
-    </td>
-    <td>
-      <img
-        src="https://seekicon.com/free-icon-download/ethereum_3.svg"
-        width="200"
-      />
-    </td>
-    <td>
-      <img
-        src="https://seekicon.com/free-icon-download/bitcoin_4.svg"
-        width="200"
-      />
-    </td>
-    <td>
-      <img
-        src="https://seekicon.com/free-icon-download/material-ui_1.svg"
-        width="200"
-      />
-    </td>
-  </tr> -->
