@@ -25,7 +25,7 @@
 
 </p>
 
-### 𝐒𝐤𝐢𝐥𝐥s
+<!-- ### 𝐒𝐤𝐢𝐥𝐥s
 <table>
   <tr>
     <!-- <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
@@ -77,4 +77,4 @@
         width="200"
       />
     </td>
-  </tr>
+  </tr> -->
