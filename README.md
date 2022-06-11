@@ -6,20 +6,20 @@
   Core skills:  <br />
   💪 React / Typescript Expert ! (6 years) <br /><br />
   💪 Front-end developer (7+ years)<br />
-  ⭐ React.js / Typescript / Javascript <br />
-  ⭐ Redux / Hooks / Functional components / ES6 <br />
-  ⭐ Styled-component / MUI / Antd / Storybook <br />
-  ⭐ Next.js<br />
-  ⭐ Tailwind CSS / SCSS / CSS / Bootstrap / Bulma CSS<br />
-  ⭐ D3.js / Chart.js / Rechart / Amchart / Highchart / Canvas <br /><br />
+  ☆ React.js / Typescript / Javascript <br />
+  ☆ Redux / Hooks / Functional components / ES6 <br />
+  ☆ Styled-component / MUI / Antd / Storybook <br />
+  ☆ Next.js<br />
+  ☆ Tailwind CSS / SCSS / CSS / Bootstrap / Bulma CSS<br />
+  ☆ D3.js / Chart.js / Rechart / Amchart / Highchart / Canvas <br /><br />
   💪 Blockchain developer (3 years)<br />
-  ⭐ Smart contract development Solidity / Solana / Rust / Scilla<br />
-  ⭐ NFT / Market place / Minting<br />
-  ⭐ Web3.js / Ether.js<br /><br />
+  ☆ Smart contract development Solidity / Solana / Rust / Scilla<br />
+  ☆ NFT / Market place / Minting<br />
+  ☆ Web3.js / Ether.js<br /><br />
   💪 Back-end developer (4 years)
-  ⭐ Node.js / Express / Python / Django<br />
-  ⭐ Restful API / API integration<br />
-  ⭐ MongoDB / PostgreSQL / MySQL / SQLite<br />
+  ☆ Node.js / Express / Python / Django<br />
+  ☆ Restful API / API integration<br />
+  ☆ MongoDB / PostgreSQL / MySQL / SQLite<br />
    
 
 </p>
