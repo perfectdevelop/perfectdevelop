@@ -9,9 +9,9 @@
   ⭐ React.js / Typescript / Javascript <br />
   ⭐ Redux / Hooks / Functional components / ES6 <br />
   ⭐ Styled-component / MUI / Antd / Storybook <br />
-  ⭐ Next.js<br /><br />
-  ⭐ Tailwind CSS / SCSS / CSS / Bootstrap / Bulma CSS
-  ⭐ D3.js / Chart.js / Rechart / Amchart / Highchart / Canvas
+  ⭐ Next.js<br />
+  ⭐ Tailwind CSS / SCSS / CSS / Bootstrap / Bulma CSS<br />
+  ⭐ D3.js / Chart.js / Rechart / Amchart / Highchart / Canvas <br /><br />
   💪 Blockchain developer (3 years)<br />
   ⭐ Smart contract development Solidity / Solana / Rust / Scilla<br />
   ⭐ NFT / Market place / Minting<br />
