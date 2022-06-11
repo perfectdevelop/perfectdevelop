@@ -1,5 +1,5 @@
 <h2>Thanks for visiting my github !!!</h2>
-Please contact me today and see how can we make exact result what you want!
+<p style={color: 'green'; font-size: '16px'}>Please contact me today and see how can we make exact result what you want!<p>
 
 <p style="font-size: 20px">
   Skilled and Proven Software engineer. 5+ years of experience.<br />
