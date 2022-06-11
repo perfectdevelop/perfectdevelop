@@ -1,4 +1,5 @@
-<h2>Hey </h2>👋🏻,
+<h2>Thanks for visiting my github !!!</h2>
+Please contact me today and see how can we make exact result what you want!
 
 <p style="font-size: 20px">
   Skilled and Proven Software engineer. 5+ years of experience.<br />
@@ -16,7 +17,7 @@
   ☆ Smart contract development Solidity / Solana / Rust / Scilla<br />
   ☆ NFT / Market place / Minting<br />
   ☆ Web3.js / Ether.js<br /><br />
-  💪 Back-end developer (4 years)
+  💪 Back-end developer (4 years)<br />
   ☆ Node.js / Express / Python / Django<br />
   ☆ Restful API / API integration<br />
   ☆ MongoDB / PostgreSQL / MySQL / SQLite<br />
