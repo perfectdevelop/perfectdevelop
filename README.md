@@ -1,6 +1,5 @@
 <h2>Thanks for visiting my github !!!</h2>
 <p style="font-size: 22px">Please contact me today and see how can we make exact result what you want!<p>
-  <h6>$kype: live:.cid.c0db7b3caf3cadaa</h6>
 
 <p style="font-size: 16px">
   Skilled and Proven Software engineer. 5+ years of experience.<br />
